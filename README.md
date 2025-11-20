@@ -47,16 +47,9 @@ Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuma
 * **Personal Mail:** [ljkahrens@protonmail.com](mailto:ljkahrens@protonmail.com)
 * **Project Mail:** [contact@opensourcehuman.ai](mailto:contact@opensourcehuman.ai)
 
-##I created OpenSourceHuman because I needed cognitive security myself.##
+**I created OpenSourceHuman because I needed cognitive security myself.**
 
-In a world where information, identity, and perception can be manipulated at scale, the only real defense is radical transparency.
-
-By open-sourcing my entire self — my full DNA sequence, brain scans, bloodwork, medical records, passports, and lifelong biodata — I turn exposure into armor.
-
-When everything is public, verifiable, and timestamped, nothing can be twisted or weaponized against me.
-
-This is not surrender.  
-This is sovereignty through openness.
+In a world where information, identity, and perception can be manipulated at scale, the only real defense is radical transparency. By open-sourcing my entire self — my full DNA sequence, brain scans, bloodwork, medical records, passports, and lifelong biodata — I turn exposure into armor. When everything is public, verifiable, and timestamped, nothing can be twisted or weaponized against me. This is not surrender. This is sovereignty through openness.
 
 **Cognitive security = being unhackable in mind and truth.**
 
