@@ -47,7 +47,7 @@ Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuma
 * **Personal Mail:** [ljkahrens@protonmail.com](mailto:ljkahrens@protonmail.com)
 * **Project Mail:** [contact@opensourcehuman.ai](mailto:contact@opensourcehuman.ai)
 
-* **I created OpenSourceHuman because I needed cognitive security myself.**
+##I created OpenSourceHuman because I needed cognitive security myself.##
 
 In a world where information, identity, and perception can be manipulated at scale, the only real defense is radical transparency.
 
