@@ -36,3 +36,12 @@ By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET i
 - ReflEx Smile Eye Surgery (2024)  
 
 **Nebula Kit:** NG1PJ23JBJ
+
+---
+
+### 📬 Connect & Contact
+
+[![Instagram](https://img.shields.io/badge/Instagram-leanderjkahrens-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leanderjkahrens)
+[![X](https://img.shields.io/badge/X-ljkx100-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ljkx100)
+[![ProtonMail](https://img.shields.io/badge/Personal-ljkahrens@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ljkahrens@protonmail.com)
+[![Email](https://img.shields.io/badge/Project-contact@opensourcehuman.ai-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@opensourcehuman.ai)
