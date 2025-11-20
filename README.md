@@ -29,19 +29,16 @@ All files are hosted at **https://opensourcehuman.ai/gallery/allfiles/**:
 We champion radical transparency as the ultimate defense for personal freedom.  
 By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET imaging, and more—we overwhelm potential exploiters with verifiable truth, forging biofield defense and cognitive security for all.  
 
-**Major surgeries include:**  
-- Otoplasty (2016)  
+**Major surgeries include:** - Otoplasty (2016)  
 - Septoplasty (2020)  
 - Chin Surgery (2021)  
 - ReflEx Smile Eye Surgery (2024)  
 
 **Nebula Kit:** NG1PJ23JBJ
 
----
-
 ### 📬 Connect & Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-leanderjkahrens-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leanderjkahrens)
-[![X](https://img.shields.io/badge/X-ljkx100-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ljkx100)
-[![ProtonMail](https://img.shields.io/badge/Personal-ljkahrens@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ljkahrens@protonmail.com)
-[![Email](https://img.shields.io/badge/Project-contact@opensourcehuman.ai-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@opensourcehuman.ai)
+* **Instagram:** [@leanderjkahrens](https://instagram.com/leanderjkahrens)
+* **X:** [@ljkx100](https://x.com/ljkx100)
+* **Personal Mail:** [ljkahrens@protonmail.com](mailto:ljkahrens@protonmail.com)
+* **Project Mail:** [contact@opensourcehuman.ai](mailto:contact@opensourcehuman.ai)
