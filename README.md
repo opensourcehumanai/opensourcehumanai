@@ -36,6 +36,8 @@ By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET i
 
 **Nebula Kit:** NG1PJ23JBJ
 
+Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuman.ai content is public domain (CC0).
+
 ### 📬 Connect & Contact
 
 * **Instagram:** [@leanderjkahrens](https://instagram.com/leanderjkahrens)
