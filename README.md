@@ -1,4 +1,4 @@
-## [OpenSourceHuman.ai](https://opensourcehuman.ai/) 👋 Cognitive Freedom, Health and Abilities / OpenGenome Project / OpenSNP
+## [OpenSourceHuman.ai](https://opensourcehuman.ai/) Cognitive Freedom, Health and Abilities / OpenGenome Project / OpenSNP
 
 [OpenSourceHuman.ai ](https://opensourcehuman.ai/) is a radical transparency initiative releasing full biological, neurological, and cognitive datasets into the public domain under the CC0 1.0 Universal license.  
 Its goal is to accelerate open research and strengthen cognitive security by ensuring all data is freely accessible, verifiable, and reproducible.  
