@@ -54,4 +54,4 @@ In a world where information, identity, and perception can be manipulated at sca
 **Cognitive security = being unhackable in mind and truth.**
 
 [https://opensourcehuman.ai](https://opensourcehuman.ai) • CC0 1.0 Universal (Public Domain)  
-Cognitive Security • Cognitive Freedom • Biofield Defense
+Cognitive Freedom • Cognitive Security • Biofield Defense
