@@ -57,3 +57,5 @@ In a world where information, identity, and perception can be manipulated at sca
 
 [https://opensourcehuman.ai](https://opensourcehuman.ai) • CC0 1.0 Universal (Public Domain)  
 Cognitive Freedom • Cognitive Security • Biofield Defense
+
+![Jensen Huang and Leander Johannes Kahrens](jensenandleander.jpeg)
