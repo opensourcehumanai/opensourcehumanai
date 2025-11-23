@@ -47,7 +47,7 @@ Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuma
 * **Instagram:** [@leanderjkahrens](https://instagram.com/leanderjkahrens)
 * **X:** [@ljkx100](https://x.com/ljkx100)
 * **Personal Mail:** [ljkahrens@protonmail.com](mailto:ljkahrens@protonmail.com)
-* **Project Mail:** [contact@opensourcehuman.ai](mailto:contact@opensourcehuman.ai)
+<!--* **Project Mail:** [contact@opensourcehuman.ai](mailto:contact@opensourcehuman.ai) -->
 
 **I created OpenSourceHuman because I needed cognitive security myself.**
 
