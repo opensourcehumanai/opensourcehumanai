@@ -39,7 +39,8 @@ By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET i
 - ReflEx Smile Eye Surgery (2024)  
 
 **Nebula Kit:** NG1PJ23JBJ
-**Harvad PGP ID** hu4B4C92
+
+**Harvad PGP ID:** hu4B4C92
 
 Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuman.ai content is public domain (CC0).
 
