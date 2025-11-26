@@ -42,7 +42,7 @@ By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET i
 
 **Harvad PGP ID:** hu4B4C92 
 Leander is taking part in Harvard's "Personal Genome Project"
-
+https://my.pgp-hms.org/profile/hu4B4C92
 
 Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuman.ai content is public domain (CC0).
 
