@@ -1,7 +1,7 @@
 ## [OpenSourceHuman.ai](https://opensourcehuman.ai/) Consciousness expansion, Cognitive Function, Health and Freedom / Harvard PGP / OpenHuman
 
 [OpenSourceHuman.ai ](https://opensourcehuman.ai/) is a radical transparency initiative releasing full biological, neurological, and cognitive datasets into the public domain under the CC0 1.0 Universal license.  
-Its goal is consciousness expansion, accelerate open research and to strengthen cognitive function (possibly nervous system defense) by ensuring all data is freely accessible, verifiable, and reproducible.
+Its goal is consciousness expansion, accelerate open research and to strengthen cognitive function (nervous system defense) by ensuring all data is freely accessible, verifiable, and reproducible.
 This repository provides documentation, tools, and links for accessing and working with the published datasets.
 
 ---
