@@ -1,4 +1,3 @@
-## [I BELIEVE IN GD]
 ## [OpenSourceHuman.ai](https://opensourcehuman.ai/) Consciousness expansion, Cognitive Function, Health and Freedom / Harvard PGP / OpenHuman
 
 [OpenSourceHuman.ai ](https://opensourcehuman.ai/) is a radical transparency initiative releasing full biological, neurological, and cognitive datasets into the public domain under the CC0 1.0 Universal license.  
