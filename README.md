@@ -59,7 +59,7 @@ In a world where information, identity, and perception can be manipulated at sca
 
 **Cognitive security = being unhackable in mind and truth.**
 
-**Religion:** I identify with and follow most major religions
+**Religion:** I identify with most major religions, but I don't follow any specific one.
 
 [https://opensourcehuman.ai](https://opensourcehuman.ai) • CC0 1.0 Universal (Public Domain)  
 Cognitive Freedom • Cognitive Security • Biofield Defense
