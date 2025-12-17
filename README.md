@@ -23,6 +23,7 @@ All files are hosted at **https://opensourcehuman.ai/gallery/allfiles/**:
 | 🧬 [NG1PJ23JBJ.mm2.sortdup.bqsr.hc.vcf](https://opensourcehuman.ai/gallery/allfiles/NG1PJ23JBJ.mm2.sortdup.bqsr.hc.vcf) | VCF |
 | 🧬 [NG1PJ23JBJ.mm2.sortdup.bqsr.cram.crai](https://opensourcehuman.ai/gallery/allfiles/NG1PJ23JBJ.mm2.sortdup.bqsr.cram.crai) | DNA/CRAM Index |
 | 🧬 [NG1PJ23JBJ.mm2.sortdup.bqsr.cram](https://opensourcehuman.ai/gallery/allfiles/NG1PJ23JBJ.mm2.sortdup.bqsr.cram) | DNA/CRAM |
+| 🧬 [DICOMS_LeanderJohannesKahrens/](https://opensourcehuman.ai/gallery/allfiles/DICOMS_LeanderJohannesKahrens/) | Medical Imaging Folder (DICOM files: MRI Head 2020, MRI Head 2022, PET 2022) |
 | 📄 [Nebula Genomics.pdf](https://opensourcehuman.ai/gallery/allfiles/Nebula%20Genomics.pdf) | PDF |
 | 📄 [LICENSE.txt](https://opensourcehuman.ai/gallery/allfiles/LICENSE.txt) | CC0 License (Text) |
 
