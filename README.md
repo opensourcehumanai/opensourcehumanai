@@ -28,8 +28,6 @@ All files are hosted at **https://opensourcehuman.ai/gallery/allfiles/**:
 | 🗃️ [MedicalPDFs_LeanderJohannesKahrens/](https://opensourcehuman.ai/gallery/allfiles/MedicalPDFs_LeanderJohannesKahrens/) | Medical PDFs | 
 | 📄 [LICENSE.txt](https://opensourcehuman.ai/gallery/allfiles/LICENSE.txt) | CC0 License (Text) |
 
-@see: index.html (127-128) above license
-
 ## About Leander Johannes Kahrens
 
 We champion radical transparency as the ultimate defense for personal freedom.  
