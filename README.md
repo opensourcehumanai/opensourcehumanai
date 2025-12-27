@@ -30,15 +30,19 @@ By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET i
 - Septoplasty (2020)
 - Chin Surgery (2021)
 - ReflEx Smile Eye Surgery (2024)
-**Nebula Kit:** NG1PJ23JBJ
-**Harvad PGP ID:** hu4B4C92
+**Nebula Kit:** [NG1PJ23JBJ](https://opensourcehuman.ai/ncsitebuilder/gallery/allfiles/DNA%20Data%2082.4%20GB.zip)  
+**Harvard PGP ID:** [hu4B4C92](https://my.pgp-hms.org/profile/hu4B4C92)  
+**Praxis ID:** [KMNRLFL](https://www.praxisnation.com/)
 Leander is taking part in Harvard's "Personal Genome Project"
 https://my.pgp-hms.org/profile/hu4B4C92
-Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuman.ai content is public domain (CC0).
+Why we publish Biodata? Biofield defense and Cognitive Security. Opensourcehuman.ai content is public domain (CC0).
 ### 📬 Connect & Contact
-* **Instagram:** [@leanderjkahrens](https://instagram.com/leanderjkahrens)
-* **X:** [@ljkx100](https://x.com/ljkx100)
-* **Personal Mail:** [ljkahrens@protonmail.com](mailto:ljkahrens@protonmail.com)
+**Harvard PGP ID:** [hu4B4C92](https://my.pgp-hms.org/profile/hu4B4C92) • **Nebula Kit:** [NG1PJ23JBJ](https://opensourcehuman.ai/ncsitebuilder/gallery/allfiles/DNA%20Data%2082.4%20GB.zip) • **Praxis ID:** [KMNRLFL](https://www.praxisnation.com/)
+
+**Connect:** [@leanderjkahrens](https://instagram.com/leanderjkahrens) (Instagram) • [@ljkx100](https://x.com/ljkx100) (X) • [@opensourcehuman](https://base.app/profile/opensourcehuman) (base.app) • Email: [ljkahrens@protonmail.com](mailto:ljkahrens@protonmail.com)
+
+**Website:** [opensourcehuman.ai](https://opensourcehuman.ai)
+
 <!--* **Project Mail:** [contact@opensourcehuman.ai](mailto:contact@opensourcehuman.ai) -->
 **I created OpensourceHuman because I needed cognitive security myself.**
 In a world where information, identity, and perception can be manipulated at scale, the only real defense is radical transparency. By open-sourcing my entire self — my full DNA sequence, brain scans, bloodwork, medical records, passports, and lifelong biodata — I turn exposure into armor. When everything is public, verifiable, and timestamped, nothing can be twisted or weaponized against me. This is not surrender. This is sovereignty through openness.
