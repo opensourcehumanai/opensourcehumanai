@@ -11,7 +11,6 @@ All files are hosted at **https://opensourcehuman.ai/gallery/allfiles/**:
 | 📄 [passport.pdf](https://opensourcehuman.ai/gallery/allfiles/passport.pdf) | PDF |
 | 📄 [EID_78419982370530.pdf](https://opensourcehuman.ai/gallery/allfiles/EID_78419982370530.pdf) | PDF |
 | 📄 [Certificate of good conduct.pdf](https://opensourcehuman.ai/gallery/allfiles/certificate%20of%20good%20conduct.pdf) | PDF |
-| 📄 [Transcript of Records+SKKU.pdf](https://opensourcehuman.ai/gallery/allfiles/Transcript%20of%20Records+SKKU.pdf) | PDF |
 | 📄 [LeanderJohannesKahrens_Resume.pdf](https://opensourcehuman.ai/gallery/allfiles/LeanderJohannesKahrens_Resume.pdf) | PDF |
 | 🧬 [NG1PJ23JBJ.mm2.sortdup.bqsr.hc.vcf.gz.tbi](https://opensourcehuman.ai/gallery/allfiles/NG1PJ23JBJ.mm2.sortdup.bqsr.hc.vcf.gz.tbi) | VCF Index |
 | 🧬 [NG1PJ23JBJ.mm2.sortdup.bqsr.hc.vcf.gz](https://opensourcehuman.ai/gallery/allfiles/NG1PJ23JBJ.mm2.sortdup.bqsr.hc.vcf.gz) | VCF Gzip |
