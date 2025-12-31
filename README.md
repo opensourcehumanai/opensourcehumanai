@@ -23,7 +23,7 @@ All files are hosted at **https://opensourcehuman.ai/gallery/allfiles/**:
 | 📄 [LICENSE.txt](https://opensourcehuman.ai/gallery/allfiles/LICENSE.txt) | CC0 License (Text) |
 ## About Leander Johannes Kahrens
 We champion radical transparency as the ultimate defense for personal freedom.
-By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET imaging, and more—we overwhelm potential exploiters with verifiable truth, forging biofield defense and cognitive security for all.
+By publicly sharing comprehensive biodata—full DNA sequences, MRI scans, PET imaging, and more—we overwhelm potential exploiters with verifiable truth, forging biofield defense and cognitive security.
 **Major surgeries include:**
 - Otoplasty (2016)
 - Septoplasty (2020)
