@@ -7,7 +7,6 @@ This repository provides documentation, tools, and links for accessing and worki
 All files are hosted at **https://opensourcehuman.ai/gallery/allfiles/**:
 | File | Type |
 |------|------|
-| 📄 [VISA_24336764.pdf](https://opensourcehuman.ai/gallery/allfiles/VISA_24336764.pdf) | PDF |
 | 📄 [passport.pdf](https://opensourcehuman.ai/gallery/allfiles/passport.pdf) | PDF |
 | 📄 [EID_78419982370530.pdf](https://opensourcehuman.ai/gallery/allfiles/EID_78419982370530.pdf) | PDF |
 | 📄 [Certificate of good conduct.pdf](https://opensourcehuman.ai/gallery/allfiles/certificate%20of%20good%20conduct.pdf) | PDF |
